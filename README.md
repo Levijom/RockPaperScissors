@@ -25,7 +25,7 @@ ROUND 2:
 No team has the advantage, so randomly Team 2 "Strategizes" first.
 Team 2 needs no strategy (as there is only 1 player) and will choose randomly between ROCK, PAPER, or SCISSORS
 Team 1 recieves no input from Team 1, and only has 1 player, so will also choose randomly between ROCK, PAPER, or SCISSORS
-END OF ROUND 1:
+END OF ROUND 2:
 50% chance of either team winning
 
 End of match.
